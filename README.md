@@ -1,6 +1,6 @@
-# EvolvCoin (EVLV)
+# EvolvCoin (EVC)
 
-**EvolvCoin (EVLV)** is a cryptocurrency project that combines **blockchain technology** with **autonomous artificial intelligence**.
+**EvolvCoin (EVC)** is a cryptocurrency project that combines **blockchain technology** with **autonomous artificial intelligence**.
 
 Our goal is to build a **decentralized network of intelligent AI agents** that automate tasks across the Web3 ecosystem – including:
 
